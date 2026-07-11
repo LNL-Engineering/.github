@@ -1,5 +1,5 @@
 
-<img src="img/logo/Naga.jpeg" align="right" width="110px">
+<img src="img/logo/Naga-fotor-bg-remover-20260711184130.png" align="right" width="110px">
 
 
 # LNL-Engineering
