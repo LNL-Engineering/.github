@@ -23,6 +23,7 @@ Welcome to my hardware and engineering hub. Here I separate physical computing, 
 
 | Project Name | Description | Tech Stack / Tools |
 | :--- | :--- | :--- |
+| [🔗 EntropyShield](https://github.com/loanelly/EntropyShield/tree/main) | Hardware True Random Number Generator (TRNG) capturing physical thermal noise from an analog p-n junction. Features an embedded Von Neumann corrector for entropy extraction and a Python client for cryptographic key generation. | Arduino, C++, Python, Cryptography, TRNG |
 | [🔗DoubleMovementL](https://github.com/loanelly/DoubleMovementL) | Universal custom mini-controller for smooth in-game movement. Features hardware joystick data processing via USB and a Python GUI wrapper utilizing low-level Windows DirectInput for zero input lag. | Arduino Nano, Python, DirectInput, GUI, С++ |
 | [🔗 Yur-Bathroom](https://github.com/loanelly/Yur-Bathroom/tree/main) | Automated IoT smart bathroom system featuring real-time C++ heating regulation loops and custom waterproof 3D CAD enclosures. | Arduino, C++, 3D Modeling, CAD |
 
