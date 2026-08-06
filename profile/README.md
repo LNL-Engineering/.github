@@ -34,7 +34,7 @@ Welcome to my hardware and engineering hub. Here I separate physical computing, 
 ---
 
 ### 🛠️ Tools & Technologies
-`KiCAD` • `Altium` • `Arduino` • `ESP32` • `STM32` • `SolidWorks` • `Fusion 360` • `C / C++`
+`KiCAD` • `Altium` • `Arduino` • `ESP32` • `STM32` • `SolidWorks` • `Fusion 360` • `C / C++ / java / python`
 
 ---
 
