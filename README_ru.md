@@ -34,7 +34,7 @@
 ---
 
 ### 🛠️ Инструменты и технологии
-`KiCAD` • `Altium` • `Arduino` • `ESP32` • `STM32` • `SolidWorks` • `Fusion 360` • `C / C++`
+`KiCAD` • `Altium` • `Arduino` • `ESP32` • `STM32` • `SolidWorks` • `Fusion 360` • `C / C++ / java / python`
 
 ---
 
